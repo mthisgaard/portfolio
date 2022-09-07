@@ -1,19 +1,27 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: JobJob
+  description: Desktop first web-app to keep track of all your job applications in one place. 
+  image: projects/jobjob2.png
+  role: Project Manager & Full-Stack Developer
+  tech: Rails, StimulusJS, PostgreSQL, Bootstrap
+  url: https://www.jobjob.pro/ 
+
+- name: Oshare
+  description: Online marketplace where users can list outfits and book outfits from other users.
+  image: projects/oshare1.png
+  role: Project Manager & Full-Stack Developer
+  tech: Rails, StimulusJS, PostgreSQL, Bootstrap
+  url: https://oshare-fit.herokuapp.com/
+
+- name: Spacewagon
+  description: Interactive web-app, where you can create missions and assign crew members to a mission.
+  image: projects/spacewagon.png
+  role: Full-Stack Developer
+  tech: Rails, StimulusJS, PostgreSQL, Bootstrap
+  url: https://space-wagon.herokuapp.com/
 
 - name: Movie Watchlist
   description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+  image: projects/watch-list.png
+  role: Full-Stack Developer
+  tech: Rails, PostgreSQL, Bootstrap
+  url: https://mt-watch-list.herokuapp.com/
