@@ -4,6 +4,7 @@
   role: Project Manager & Full-Stack Developer
   tech: Rails, StimulusJS, PostgreSQL, Bootstrap
   url: https://www.jobjob.pro/ 
+  git: https://github.com/mthisgaard/jobjob
 
 - name: Oshare
   description: Online marketplace where users can list outfits and book outfits from other users.
@@ -11,6 +12,7 @@
   role: Project Manager & Full-Stack Developer
   tech: Rails, StimulusJS, PostgreSQL, Bootstrap
   url: https://oshare-fit.herokuapp.com/
+  git: https://github.com/mthisgaard/oshare
 
 - name: Spacewagon
   description: Interactive web-app, where you can create missions and assign crew members to a mission.
@@ -18,10 +20,12 @@
   role: Full-Stack Developer
   tech: Rails, StimulusJS, PostgreSQL, Bootstrap
   url: https://space-wagon.herokuapp.com/
+  git: https://github.com/mthisgaard/space-crew
 
 - name: Movie Watchlist
-  description: Decent description of the app
+  description: Web-app to create your own movie watch lists and add your favorite movies.
   image: projects/watch-list.png
   role: Full-Stack Developer
   tech: Rails, PostgreSQL, Bootstrap
   url: https://mt-watch-list.herokuapp.com/
+  git: https://github.com/mthisgaard/rails-watch-list
