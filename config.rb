@@ -5,6 +5,8 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+activate :metaman, host: 'https://domain.com'
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
