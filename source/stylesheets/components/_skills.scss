@@ -1,0 +1,11 @@
+.skill {
+  border: 1px solid $gray; 
+  padding: 8px 16px;
+  margin: 2px 0px;
+  border-radius: 8px;
+  font-weight: 600;
+
+  &:hover {
+    background-color: $light-gray;
+  }
+}
