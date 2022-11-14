@@ -11,8 +11,19 @@
   color: white;
   font-weight: 700;
   font-size: 24px;
+  margin-right: 24px;
 
   &:hover {
+    opacity: 0.7;
+  }
+}
+
+.nav-section-link {
+  text-decoration: none;
+  color: white;
+  
+  &:hover {
+    color: white;
     opacity: 0.7;
   }
 }
